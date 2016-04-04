@@ -1,2 +1,2 @@
-# analysis-and-synthesis-of-algorithms-1st
-IST 2014/2015 Analise e Sistese de Algoritmos (BFS)
+# Analysis and Synthesis of Algorithms
+# Project 1st part IST
